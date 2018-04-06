@@ -8,7 +8,7 @@ Login Screen
 Checks against instructor list from firebase database to verify instructor name and password are correct before allowing entry;
 After that, the instructor would be able to enter a certain class by clicking the button in a tablelayout;
 
-Home Screen 
+Home Screen   
 With navigation bar at the bottom.Instructors can view quiz scores of all students or fail list by clicking corresbonding buttons;
 
 Forum 
