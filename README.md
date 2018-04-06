@@ -11,7 +11,7 @@ After that, the instructor would be able to enter a certain class by clicking th
 Home Screen   
 With navigation bar at the bottom.Instructors can view quiz scores of all students or fail list by clicking corresbonding buttons;
 
-Forum 
+Forum   
 Read questions from Forum.The question data is from firebase, uploaded by students;
 Basic click on recycler view to jump to reply screen for viewing the full question and writing/changing reply to the corresponding question;
 
